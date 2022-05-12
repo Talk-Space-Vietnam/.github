@@ -55,35 +55,6 @@ Financial :
 Human Resource :
 - Everything related to working at "Talk Space Vietnam" and the people of "Talk Space Vietnam", made public.
 
-```
-* 📕[Job Board](https://www.notion.so/Job-Board-f4125730ab7c46af870c7700524c5aba)
-
-* 📕[Employee Handbook](https://www.notion.so/f1d20c481a404a6c928a17bf813e50ee)** 
-
-* 📘[Training new Employee](https://www.notion.so/e39302d8b16e471dbb77af14137cb6bf)
-
-* 📘[Cource HR/Recruitment](https://www.notion.so/Cource-HR-Recruitment-c27057fca87246e3bca6f5d16480f5e9)
-
-* 📘[Cource Employment](https://www.notion.so/21fc1672d125431b89dd62f192ff82c1)
-
-* 🕶️[The Matrix™ (job profiles)](https://www.notion.so/516d5d24838444488f6e8db8abbdd609)
-
-### Careers
-
-* All recruitment information is updated here
-
-* 🤝[Careers at " Talk Space Vietnam"](https://www.notion.so/Careers-at-Talk-Space-Vietnam-083ee211de854af88f52a08c96bb8a2e)
-
----
-
-* If you are a member of a team dedicated to creating content. Please join the facebook group*
-
-* 🌐[Group | Facebook : Talk Space-Khong gian ke chuyen](https://www.facebook.com/groups/talkspacevietnam)
-
-* If you are a member of the project development team on facebook. Please join the facebook group
-* 🌐[Group | Facebook : Talk Space.Vietnam](https://www.facebook.com/groups/424411978531867)
-
-```
 
 COPYRIGHTED 
 

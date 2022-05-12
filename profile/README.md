@@ -7,13 +7,9 @@ We have created a kit that enables people to plan and personalize their living s
 
 At the same time, we provide information related to the design field through images. We believe that if you spend an hour looking through the contents of the pictures, you can save 3 hours reading a technical book with similar content. At the same time, we are interested in creating the content of 7 art forms from the perspective of young people full of positive energy.
 
-On the other hand, to prepare for the later development stages of "Talk Space Vietnam" in the coming years. We want to be a design and mental health content developer helping people get through their difficult times through small things related to space renovation. live by yourself.
-
- Talk Space Vietnam - Originally a group of young people working and working in the field of architecture, graphic design with the desire to share their knowledge under a positive perspective. There came a time when we received positive feedback from everyone and realized that our values could spread more in the community. So we thought and acted bigger to be able to help more people in our community.
  
  ![000](https://user-images.githubusercontent.com/81685113/168080400-2ec7b13b-84a7-4efb-9ec7-3434b3dd7530.png)
- We build content according to 7 art types.
-
+ We build content according to 7 art types : 
 - 📰**Literature - Space**
 - 🎨**Art - Space**
 - 🤟**Music - Space**

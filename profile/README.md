@@ -1,4 +1,3 @@
-![andre-benz-_T35CPjjSik-unsplash](https://user-images.githubusercontent.com/81685113/168080075-b11ff13f-dfe7-4844-a835-a66565ca9b57.png)
 
 # Talk-Space-Vietnam
 
@@ -12,6 +11,7 @@ On the other hand, to prepare for the later development stages of "Talk Space Vi
 
  Talk Space Vietnam - Originally a group of young people working and working in the field of architecture, graphic design with the desire to share their knowledge under a positive perspective. There came a time when we received positive feedback from everyone and realized that our values could spread more in the community. So we thought and acted bigger to be able to help more people in our community.
  
+ ![000](https://user-images.githubusercontent.com/81685113/168080400-2ec7b13b-84a7-4efb-9ec7-3434b3dd7530.png)
  We build content according to 7 art types.
 
 - 📰**Literature - Space**

@@ -18,9 +18,8 @@ At the same time, we provide information related to the design field through ima
 - 🎭**Stage - Space**
 - 🎰**Cinema - Space**
 
-The ultimate goal that we aim for is still the emotional space of each person.
 
-Details on implemented projects are available here :
+### Details on implemented projects are available here :
 |  Resource      |    Description   |     Updated  | 
 | ------------- | ------------- | ------------- |
 |   [Behance ](https://www.notion.so/Behance-2f3af5c0e0f24537bfeaa1943286a241)  |      Art - Space - Image infomation       |        2021  | 
@@ -34,8 +33,6 @@ Details on implemented projects are available here :
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-
-----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>

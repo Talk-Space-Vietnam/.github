@@ -8,7 +8,7 @@ We have created a kit that enables people to plan and personalize their living s
  ![000](https://user-images.githubusercontent.com/81685113/168080400-2ec7b13b-84a7-4efb-9ec7-3434b3dd7530.png)
  At the same time, we provide information related to the design field through images. We believe that if you spend an hour looking through the contents of the pictures, you can save 3 hours reading a technical book with similar content. At the same time, we are interested in creating the content of 7 art forms from the perspective of young people full of positive energy.
  
- - We build content according to 7 art types :
+We build content according to 7 art types :
 - 📰**Literature - Space**
 - 🎨**Art - Space**
 - 🤟**Music - Space**

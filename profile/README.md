@@ -29,29 +29,25 @@ Details on implemented projects are available here :
 |   [Soundcloud](https://www.notion.so/Soundcloud-4720895f94fb4f1bab7f5f0cf08575ce)  |       Literature - Space  , Architect - Space , Stage - Space , Cinema - Space       |      2021    |
 |   [Website : Talk Space Vietnam](https://www.notion.so/Website-Talk-Space-Vietnam-49b88196775e42c4bbad81b81c1bba8f)  |      Literature - Space       |         2021  |
 
-```
-Development documents and research :
- - You will need to contact the main administrator on your team to be involved. We are in the process of building the organization. So every work you do means a lot to us. We will try to improve them as soon as possible and share this information with all members.*
+<summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
-HRM :
-- Build culture, organize people and work. Establishes the values of the members and the organization*
+----
 
-Technology :
-- Research and develop technology into organizational management. Using technology to reach customers and assist members to complete work effectively*
-Product & Operation
-- Product design, production and operation management.
-- Talk to the customer and improve the product as the product develops.
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+<br/>
 
-Marketing and saler :
-- I*mplementation of advertising campaigns. Listen to what the customer wants. Develop strategies that promote the value of your product to the people.*
-
-Financial :
-- Organizational financial management. Analyze and evaluate financial plans when manufacturing products.
-
-Human Resource :
-- Everything related to working at "Talk Space Vietnam" and the people of "Talk Space Vietnam", made public.
-
-```
 
 ```
 COPYRIGHTED 

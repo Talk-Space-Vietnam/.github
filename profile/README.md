@@ -6,7 +6,9 @@ Information about the latest updates and activities on products and services at 
 We have created a kit that enables people to plan and personalize their living spaces. If you are interested in the design schedule and want to manually renovate your living space but do not know where to start. Then this toolkit really helps and helps you to plan and act in the most effective way.
  
  ![000](https://user-images.githubusercontent.com/81685113/168080400-2ec7b13b-84a7-4efb-9ec7-3434b3dd7530.png)
- At the same time, we provide information related to the design field through images. We believe that if you spend an hour looking through the contents of the pictures, you can save 3 hours reading a technical book with similar content. At the same time, we are interested in creating the content of 7 art forms from the perspective of young people full of positive energy : 
+ At the same time, we provide information related to the design field through images. We believe that if you spend an hour looking through the contents of the pictures, you can save 3 hours reading a technical book with similar content. At the same time, we are interested in creating the content of 7 art forms from the perspective of young people full of positive energy.
+ 
+ - We build content according to 7 art types :
 - 📰**Literature - Space**
 - 🎨**Art - Space**
 - 🤟**Music - Space**

@@ -28,8 +28,6 @@ Details on implemented projects are available here :
 |   [Pinterest](https://www.notion.so/Pinterest-52f3ff76c4bc46bb92bc612db617c64b)     |    Music - Space - From music go to the sensor  |        2021  |
 |   [Soundcloud](https://www.notion.so/Soundcloud-4720895f94fb4f1bab7f5f0cf08575ce)  |       Literature - Space  , Architect - Space , Stage - Space , Cinema - Space       |      2021    |
 |   [Website : Talk Space Vietnam](https://www.notion.so/Website-Talk-Space-Vietnam-49b88196775e42c4bbad81b81c1bba8f)  |      Literature - Space       |         2021  |
-|   [Page Facebook](https://www.notion.so/Page-Facebook-818b9361b23a403da617a40f523292e9)     |        |               |     2021      |
-|   [Solitude and Depression](https://www.notion.so/Solitude-and-Depression-ebff8301ba6c40acaa15ca739a153a6a)     |        |     2021      |
 
 ```
 Development documents and research :

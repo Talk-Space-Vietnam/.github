@@ -26,12 +26,6 @@ We have created a kit that enables people to plan and personalize their living s
 |   [Website : Talk Space Vietnam](https://www.notion.so/Website-Talk-Space-Vietnam-49b88196775e42c4bbad81b81c1bba8f)  |      Literature - Space       |         2021  |
 
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
